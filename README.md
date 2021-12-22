@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lundydaniel
 - 👀 I’m interested in all things coding! Basketball, and most other sports, along with video games. 
-- 🌱 I’m currently learning html, css, js, vue.js, and php. 
+- 🌱 I’m currently learning html, css, scss, js, vue.js, and php. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me daniel.n.lundy@gmail.com
 
